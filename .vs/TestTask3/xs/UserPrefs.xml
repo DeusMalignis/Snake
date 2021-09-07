@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{8001DC73-4013-D849-41BF-33136569D416}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Move.cs">
+    <Files>
+      <File FileName="Assets/Move.cs" Line="13" Column="1" />
+      <File FileName="Assets/ColorChange.cs" />
+      <File FileName="Assets/ColorChangeOfLine.cs" />
+      <File FileName="Assets/NewPlane.cs" />
+      <File FileName="Assets/Fever.cs" Line="18" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Unity.Sysroot.Linux__x86__64 PreferredExecutionTarget="59a02ed3-f14c-4868-87ac-aeeb0e30042e" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a63ba774-f224-4c20-8c71-903d7816110c" />
+  <MonoDevelop.Ide.ItemProperties.Unity.Notifications.Android PreferredExecutionTarget="6e8ed6b1-d84b-41d0-92c0-b2aeb2d85ee5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
